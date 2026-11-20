@@ -1,6 +1,8 @@
 # hello-world
 hello 
 
+This project is a practice repository to learn Git and Markdown.
+
 parangaticurimicuaro
 
 modified from local a juan
