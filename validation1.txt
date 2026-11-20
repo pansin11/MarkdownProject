@@ -1,0 +1,90 @@
+commit 38ba8d0902f31af031079a3ea287dde7cf56b07e
+Author: juan <juatorcai@iespoblenou.org>
+Date:   Fri Nov 20 16:37:36 2026 +0100
+
+    Update Introduction of README.md
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit d53acda3f8a4cf0b167f461e339ab695d71ae2c7
+Author: juan <juatorcai@iespoblenou.org>
+Date:   Fri Nov 20 15:58:30 2026 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit ce3d38a98a0689e8d366a40dd4cc14035843058d
+Author: juan <juatorcai@iespoblenou.org>
+Date:   Fri Nov 20 15:49:55 2026 +0100
+
+    Enhance README with formatting
+
+ README.md | 17 +++++++++++++++++
+ 1 file changed, 17 insertions(+)
+
+commit 37f7fd2aacf9344d7067229b66d0fff580581e77
+Author: juan <juatorcai@iespoblenou.org>
+Date:   Fri Nov 20 15:19:45 2026 +0100
+
+    Add feature list table ro README
+
+ README.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 0aa571007dc9d01fd6c5f84dcdd1761f79b7bcc2
+Author: juan <juatorcai@iespoblenou.org>
+Date:   Fri Nov 20 15:14:32 2026 +0100
+
+    Add project logo to README
+
+ README.md       |   4 +++-
+ images/logo.png | Bin 0 -> 10936 bytes
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+
+commit 418850712de2f3674eac950e06dcfe826f47bdb7
+Author: juan <juatorcai@iespoblenou.org>
+Date:   Fri Nov 20 15:05:03 2026 +0100
+
+    Add hyperlinks to README
+
+ README.md | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 7ee4ce06fe2227b07ebaa363d31fb8998461ae99
+Merge: 7ed69f8 f306600
+Author: Juan Sebastian Torres Caicedo <juatorcai@iespoblenou.org>
+Date:   Fri Nov 13 13:36:58 2026 +0100
+
+    Merge pull request #1 from pansin11/juan
+    
+    Prove
+
+commit f3066002830004baeac207ee7b9b5103562f66f5
+Author: Juan <juatorcai@iespoblenou.org>
+Date:   Fri Nov 13 13:32:36 2026 +0100
+
+    Prove
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 7ed69f8a1ccf1d27a7e0d98b2eef954661b93628
+Author: Juan <y7379120k@iespoblenou.org>
+Date:   Fri Nov 6 13:24:50 2026 +0100
+
+    update 1 from local
+
+ README.md | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit 8520c2ac1e86c7c3f29b7b1579e5d7a3305cb5c3
+Author: Juan Sebastian Torres Caicedo <juatorcai@iespoblenou.org>
+Date:   Fri Nov 6 12:58:27 2026 +0100
+
+    Initial commit
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
